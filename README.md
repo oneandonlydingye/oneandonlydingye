@@ -1,20 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I’m Dingye
 
-<!--
-**oneandonlydingye/oneandonlydingye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Welcome to my GitHub profile! 
+## 🌱 About Me
 
-## About Me
+* 🔭 I’m exploring data science, R, and Git/GitHub workflows
+* 🌱 Currently learning how to integrate RStudio with GitHub for smoother project management
+* 🛠 Interested in reproducible research, data visualization, and collaborative coding
+* 📚 Always curious and eager to pick up new tools and skills
 
-*  *I’m exploring data science and Git/GitHub workflows*
-* _I'm still learning it honestly_
+## 🗂️ What You’ll Find Here
 
-## What You’ll Find Here
+* Practice repositories where I experiment with GitHub setup
+* Small projects, scripts, and notes from my learning journey
+* Future plans: more polished projects and contributions to open-source
 
-* 📖my work
-
+## 📫 Connect with Me
 
 * GitHub: [@oneandonlydingye](https://github.com/oneandonlydingye)
+* (Optional: add LinkedIn, email, or personal website here)
 
--->
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to follow along as I keep learning and building.*
+
