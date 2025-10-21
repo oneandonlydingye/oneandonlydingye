@@ -18,7 +18,8 @@ Welcome to my GitHub profile! 🚀
 ## 📫 Connect with Me
 
 * GitHub: [@oneandonlydingye](https://github.com/oneandonlydingye)
-* (Optional: add LinkedIn, email, or personal website here)
+* Email: howard.ding25@imperial.ac.uk
+* LinkedIn: www.linkedin.com/in/howard-ding-357477221
 
 ---
 
